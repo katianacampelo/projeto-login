@@ -76,7 +76,7 @@ lilas: #5f2c82
       border: 0px;
       border-radius: 8px;
       padding: 4px;
-      transform: translateY(-16px);
+      transform: translateY(-13px);
      
    }
    div.campo > input:focus-within{
