@@ -1,8 +1,15 @@
 @charset "utf-8";
 
 @media screen and (min-width:768px) and (max-width:992px)  {
+
+  
     body{
         background-image: linear-gradient(to top,#49a09d,#5f2c82);
+    }
+    main{
+      display: flex;
+      justify-content: center;
+      align-items: center;
     }
   section#login{
     
@@ -25,6 +32,11 @@
     @media screen and (min-width:992px){
         body{
             background-image: linear-gradient(to top,#49a09d,#5f2c82);
+        }
+        main{
+          display: flex;
+          justify-content: center;
+          align-items: center;
         }
       section#login{
         width: 990px;
